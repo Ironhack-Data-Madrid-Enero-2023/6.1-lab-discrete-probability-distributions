@@ -1627,3 +1627,9 @@
 2023-02-20 17:09:18,533 [10339] DEBUG    matplotlib.font_manager:1341: [JupyterRequire] findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/Times New Roman Italic.ttf', name='Times New Roman', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
 2023-02-20 17:09:18,533 [10339] DEBUG    matplotlib.font_manager:1341: [JupyterRequire] findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/Academy Engraved LET Fonts.ttf', name='Academy Engraved LET', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
 2023-02-20 17:09:18,533 [10339] DEBUG    matplotlib.font_manager:1367: [JupyterRequire] findfont: Matching sans\-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/Users/ruben/opt/anaconda3/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+2023-02-20 17:22:16,583 [10339] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2023-02-20 17:22:16,584 [10339] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2023-02-20 17:22:16,584 [10339] INFO     root:247: [JupyterRequire] Initializing comms.
+2023-02-20 17:22:16,588 [10339] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2023-02-20 17:22:16,588 [10339] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2023-02-20 17:22:16,589 [10339] DEBUG    root:97: [JupyterRequire] Registering comm targets.
